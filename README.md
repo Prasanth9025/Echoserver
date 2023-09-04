@@ -60,10 +60,12 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
-Server side:
+Server side: 
+
 ![prasa ser](https://github.com/Prasanth9025/Echoserver/assets/118343686/fdf20c64-61c8-4855-93bf-1b3be65f5ebe)
 
 Client side:
+
 ![client pas](https://github.com/Prasanth9025/Echoserver/assets/118343686/9c6b8854-f62e-48c5-b2c2-e2e93183c2f9)
 
 
